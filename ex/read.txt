@@ -1,0 +1,5 @@
+Atributos = Caracteristicas;
+metodos = funçoes;
+
+
+clonar objeto = "new + Nome Clase";
